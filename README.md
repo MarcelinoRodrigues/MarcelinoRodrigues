@@ -10,6 +10,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://giphy.com/embed/if9niVFg4IwAE">
- <iframe src="" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hellsing-hottest-anime-men-in-no-particular-order-alucard-if9niVFg4IwAE">via GIPHY</a></p>
+  <img align="right" alt="Rafa-yoda" src="https://giphy.com/gifs/hellsing-hottest-anime-men-in-no-particular-order-alucard-if9niVFg4IwAE">
 </div>
