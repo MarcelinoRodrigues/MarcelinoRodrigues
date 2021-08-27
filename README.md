@@ -12,19 +12,12 @@
 #### Languages and Tools
 
 ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
-
-
-#### I am studying
-
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=flat&logo=angularjs&logoColor=white)
 
