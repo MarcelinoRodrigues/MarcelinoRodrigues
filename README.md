@@ -19,5 +19,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
 
